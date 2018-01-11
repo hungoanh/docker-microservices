@@ -1,3 +1,5 @@
+cd app
+
 # To build the nodejs-service image
 docker build -t nodejs-service .
 
